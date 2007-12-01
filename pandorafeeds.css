@@ -1,0 +1,41 @@
+/* $Id: pandorafeeds.css,v 1.1 2007/02/17 16:30:49 acubens Exp $ */
+/*
+ * Style-classes for your stations
+ */
+li.pandorafeeds-stations { /* define the look of listitem here*/
+	
+}
+
+li.pandorafeeds-stations a {
+	/* define the look of an enclosed link here*/
+	
+}
+
+/*
+ * Style-classes for your bookmarked songs
+ */
+li.pandorafeeds-favorites { /* define the look of listitem here*/
+	
+}
+
+img.pandorafeeds-favorites {
+	/* define the look of an enclosed image here*/
+	vertical-align: text-top;
+}
+
+li.pandorafeeds-favorites a {
+	/* define the look of an enclosed link here*/
+	
+}
+
+/*
+ * Style-classes for your bookmarked artists
+ */
+li.pandorafeeds-favoriteartists { /* define the look of listitem here*/
+	
+}
+
+li.pandorafeeds-favoriteartists a {
+	/* define the look of an enclosed link here*/
+	
+}
